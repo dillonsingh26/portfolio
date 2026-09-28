@@ -23,4 +23,5 @@ I'm a Master's student in Data Science at Northwestern University, focused on br
 ## Contact
 
 - Email: [dillonsingh26.26@gmail.com](mailto:dillonsingh26.26@gmail.com)
+- LinkedIn: [linkedin.com/in/dillon-singh-aa152216b](https://www.linkedin.com/in/dillon-singh-aa152216b/)
 - GitHub: [github.com/dillonsingh26](https://github.com/dillonsingh26)
