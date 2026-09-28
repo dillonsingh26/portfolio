@@ -1,0 +1,15 @@
+[build]
+  publish = "public"
+  command = "hugo --gc --minify -b $URL && npx -y pagefind --site public"
+
+[build.environment]
+  HUGO_VERSION = "0.166.0"
+  TZ = "America/New_York"
+  NODE_VERSION = "22"
+
+# Preview builds use their own temporary address
+[context.deploy-preview]
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL && npx -y pagefind --site public"
+
+[context.branch-deploy]
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL && npx -y pagefind --site public"

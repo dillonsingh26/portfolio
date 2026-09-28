@@ -1,10 +1,10 @@
 # Dillon Singh — personal site
 
-Personal technical website built with [Hugo](https://gohugo.io/) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
+Personal technical website built with [Hugo](https://gohugo.io/) and the [Clean White](https://github.com/zhaohuabing/hugo-theme-cleanwhite) theme.
 
 ## Requirements
 
-- Hugo extended, version 0.146.0 or later
+- Hugo extended
 - Git
 
 ## Run locally
@@ -16,47 +16,14 @@ hugo server
 
 The site is served at <http://localhost:1313/>.
 
-## Build
-
-```sh
-hugo --gc --minify
-```
-
-The generated site is written to `public/`.
-
 ## Layout
 
 | Path | Contents |
 |---|---|
-| `config/_default/hugo.toml` | Site title, base URL, copyright |
-| `config/_default/menus.toml` | Navigation menu |
-| `config/_default/params.toml` | Theme settings and home page profile |
-| `content/` | Pages, written in Markdown |
-| `assets/images/` | Images used in content pages |
-| `assets/css/extended/` | Custom styles |
+| `hugo.toml` | Site title, base URL, menu, sidebar, and theme settings |
+| `content/post/` | Blog posts, written in Markdown |
+| `content/about/` | About page |
+| `static/img/` | Header images, avatar, and favicon |
+| `assets/images/` | Images placed with the `img` shortcode |
 | `layouts/_shortcodes/img.html` | Image shortcode |
-| `static/` | Favicons |
-| `themes/PaperMod/` | Theme (git submodule) |
-
-## Add a page
-
-Create a Markdown file in one of the sections under `content/`, for example `content/projects/my-project.md`:
-
-```toml
-+++
-title = 'My Project'
-summary = 'One or two sentences shown on the Projects page.'
-weight = 25
-tags = ['Python']
-+++
-```
-
-Pages in Experience, Projects, and Education are ordered by `weight`, lowest first. Blog posts are ordered by `date`.
-
-## Add an image
-
-Put the file in `assets/images/`, then reference it from a content page:
-
-```text
-{{</* img src="chart.png" alt="What the image shows" caption="Optional caption" */>}}
-```
+| `themes/hugo-theme-cleanwhite/` | Theme (git submodule) |
