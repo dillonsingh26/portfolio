@@ -12,9 +12,11 @@
     text-shadow: 0 1px 6px rgba(0, 0, 0, 0.9), 0 0 2px rgba(0, 0, 0, 0.8);
 }
 
-/* Show the skyline from the tower tops down to the bridge */
+/* Frame the skyline, and tint the bright photo so white text stands out */
 header.intro-header:not(.style-text) {
-    background-position: center 42%;
+    background-position: center 64%;
+    background-color: rgb(150, 165, 195);
+    background-blend-mode: multiply;
 }
 
 /* Taller header on larger screens so more of the photo is visible */

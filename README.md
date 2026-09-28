@@ -30,4 +30,4 @@ The site is served at <http://localhost:1313/>.
 
 ## Image credits
 
-- `static/img/home-bg-nyc.jpg` — photo from [Pexels](https://www.pexels.com/photo/462267/) (Pixabay), used under the Pexels license. Attribution is not required.
+- `static/img/home-bg-nyc.jpg` — photo from [Pexels](https://www.pexels.com/photo/29073681/) (suissounet), used under the Pexels license. Attribution is not required.
