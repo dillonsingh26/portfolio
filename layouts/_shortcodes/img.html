@@ -1,0 +1,32 @@
+{{- /*
+  Image shortcode: pulls a file from assets/images, resizes it, and converts it to WebP.
+
+  Usage:
+    {{< img src="chart.png" alt="What the image shows" caption="Optional caption" width="1200" >}}
+*/ -}}
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" -}}
+{{- $caption := .Get "caption" -}}
+{{- $width := int (.Get "width" | default 1200) -}}
+{{- with resources.Get (printf "images/%s" $src) -}}
+  {{- $img := . -}}
+  {{- if ne .MediaType.SubType "svg" -}}
+    {{- if gt .Width $width -}}
+      {{- $img = .Resize (printf "%dx webp q85" $width) -}}
+    {{- else -}}
+      {{- $img = .Process "webp q85" -}}
+    {{- end -}}
+  {{- end -}}
+<figure class="site-figure">
+  <a href="{{ .RelPermalink }}">
+    <img src="{{ $img.RelPermalink }}"
+      {{- if ne .MediaType.SubType "svg" }} width="{{ $img.Width }}" height="{{ $img.Height }}"{{ end }}
+      alt="{{ $alt }}" loading="lazy">
+  </a>
+  {{- with $caption }}
+  <figcaption>{{ . | markdownify }}</figcaption>
+  {{- end }}
+</figure>
+{{- else -}}
+  {{- errorf "img shortcode: assets/images/%s not found (%s)" $src $.Position -}}
+{{- end -}}

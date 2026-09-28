@@ -1,0 +1,24 @@
+baseURL = 'https://dillonsingh26.github.io/portfolio/'
+locale = 'en-us'
+title = 'Dillon Singh'
+theme = 'PaperMod'
+copyright = '© 2026 Dillon Singh'
+
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+# JSON output on the home page feeds the theme's search page
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+[taxonomies]
+  tag = 'tags'
+
+[markup.highlight]
+  noClasses = false
+
+# Allows {.class} attributes on paragraphs and other blocks in Markdown
+[markup.goldmark.parser.attribute]
+  block = true
