@@ -1,8 +1,26 @@
 ---
 layout: page
 title: "About"
+description: "M.S. in Data Science · Northwestern University"
 ---
 
 ## About Me
 
-Write a short introduction here.
+I'm a Master's student in Data Science at Northwestern University, focused on bringing advanced analytics and AI into impactful, real-world applications. My current passion is StatusTix — a social sports app I founded and built, where fans earn status for showing up.
+
+## Education
+
+**Northwestern University** — M.S. in Data Science, Artificial Intelligence specialization (December 2026)
+
+**University of South Carolina, Darla Moore School of Business** — B.S. in Business Administration
+
+## Experience
+
+- **Level Blue** — Lead Financial Analyst, 2024–Present
+- **StatusTix** — Founder, 2026–Present
+- **AT&T** — Lead Financial Analyst and Financial Analyst, 2019–2024
+
+## Contact
+
+- Email: [dillonsingh26.26@gmail.com](mailto:dillonsingh26.26@gmail.com)
+- GitHub: [github.com/dillonsingh26](https://github.com/dillonsingh26)

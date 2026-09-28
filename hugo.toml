@@ -1,5 +1,5 @@
 baseurl = "https://dillonsingh26.github.io/"
-title = "Your Site Title"
+title = "Dillon Singh"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 preserveTaxonomyNames = true
@@ -20,10 +20,10 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/home-bg-jeep.jpg"
-  SEOTitle = "Your Site Title"
-  description = "A short description of your site."
-  keyword = "keyword one, keyword two"
-  slogan = "Your tagline goes here"
+  SEOTitle = "Dillon Singh | Data Science & Analytics"
+  description = "Dillon Singh — M.S. in Data Science (Artificial Intelligence specialization), Northwestern University. Data science and business analytics."
+  keyword = "Dillon Singh, data science, business analytics, artificial intelligence, Northwestern University, StatusTix"
+  slogan = "M.S. in Data Science · Northwestern University"
   upstreamAttribution = true
 
   image_404 = "img/404-bg.jpg"
@@ -42,7 +42,7 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "A one-line description of you."
+  sidebar_about_description = "M.S. in Data Science (AI specialization) at Northwestern University. Lead Financial Analyst at Level Blue. Founder of StatusTix."
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
   #sidebar_avatar = "img/your-photo.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -86,14 +86,14 @@ home = ["HTML", "RSS", "Algolia"]
 
   [params.social]
   rss            = true 
-  #email         = "youremail@gmail.com"
+  email          = "dillonsingh26.26@gmail.com"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
   #linkedin      = "https://www.linkedin.com/in/yourlinkedinid"
   #stackoverflow = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
-  #github        = "https://github.com/yourgithub"
+  github         = "https://github.com/dillonsingh26"
   #wechat        = "your wechat qr code image"
   #medium        = "full profile url in medium"
   #slack         = "full workspace url in slack"
