@@ -27,3 +27,7 @@ The site is served at <http://localhost:1313/>.
 | `assets/images/` | Images placed with the `img` shortcode |
 | `layouts/_shortcodes/img.html` | Image shortcode |
 | `themes/hugo-theme-cleanwhite/` | Theme (git submodule) |
+
+## Image credits
+
+- `static/img/home-bg-nyc.jpg` — [Midtown Manhattan from Weehawken September 2021 HDR panorama](https://commons.wikimedia.org/wiki/File:Midtown_Manhattan_from_Weehawken_September_2021_HDR_panorama.jpg) by King of Hearts, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Resized from the original.

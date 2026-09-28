@@ -1,0 +1,13 @@
+/* Keep the header title and tagline readable over the skyline photo */
+.intro-header .site-heading h1,
+.intro-header .page-heading h1,
+.intro-header .post-heading h1 {
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.6);
+}
+
+.intro-header .site-heading .subheading,
+.intro-header .page-heading .subheading,
+.intro-header .post-heading .subheading {
+    font-weight: 400;
+    text-shadow: 0 1px 6px rgba(0, 0, 0, 0.9), 0 0 2px rgba(0, 0, 0, 0.8);
+}

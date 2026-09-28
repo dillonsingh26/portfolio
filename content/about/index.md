@@ -25,3 +25,7 @@ I'm a Master's student in Data Science at Northwestern University, focused on br
 - Email: [dillonsingh26.26@gmail.com](mailto:dillonsingh26.26@gmail.com)
 - LinkedIn: [linkedin.com/in/dillon-singh-aa152216b](https://www.linkedin.com/in/dillon-singh-aa152216b/)
 - GitHub: [github.com/dillonsingh26](https://github.com/dillonsingh26)
+
+---
+
+Header photo: [Midtown Manhattan from Weehawken](https://commons.wikimedia.org/wiki/File:Midtown_Manhattan_from_Weehawken_September_2021_HDR_panorama.jpg) by King of Hearts, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), resized.
