@@ -30,4 +30,4 @@ The site is served at <http://localhost:1313/>.
 
 ## Image credits
 
-- `static/img/home-bg-brooklyn-bridge.jpg` — [Pont de Brooklyn de nuit - Octobre 2008 edit](https://commons.wikimedia.org/wiki/File:Pont_de_Brooklyn_de_nuit_-_Octobre_2008_edit.jpg) by Martin St-Amant (S23678), licensed [CC BY 3.0](https://creativecommons.org/licenses/by/3.0). Resized from the original.
+- `static/img/home-bg-nyc.jpg` — photo from [Pexels](https://www.pexels.com/photo/462267/) (Pixabay), used under the Pexels license. Attribution is not required.

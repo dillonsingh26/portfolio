@@ -11,3 +11,16 @@
     font-weight: 400;
     text-shadow: 0 1px 6px rgba(0, 0, 0, 0.9), 0 0 2px rgba(0, 0, 0, 0.8);
 }
+
+/* Show the skyline from the tower tops down to the bridge */
+header.intro-header:not(.style-text) {
+    background-position: center 42%;
+}
+
+/* Taller header on larger screens so more of the photo is visible */
+@media only screen and (min-width: 768px) {
+    .intro-header .site-heading,
+    .intro-header .page-heading {
+        padding: 210px 0;
+    }
+}

@@ -25,7 +25,3 @@ I'm a Master's student in Data Science at Northwestern University, focused on br
 - Email: [dillonsingh26.26@gmail.com](mailto:dillonsingh26.26@gmail.com)
 - LinkedIn: [linkedin.com/in/dillon-singh-aa152216b](https://www.linkedin.com/in/dillon-singh-aa152216b/)
 - GitHub: [github.com/dillonsingh26](https://github.com/dillonsingh26)
-
----
-
-Header photo: [Brooklyn Bridge at night](https://commons.wikimedia.org/wiki/File:Pont_de_Brooklyn_de_nuit_-_Octobre_2008_edit.jpg) by Martin St-Amant, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), resized.

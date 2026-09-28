@@ -19,7 +19,7 @@ hasCJKLanguage = false
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-brooklyn-bridge.jpg"
+  header_image = "img/home-bg-nyc.jpg"
   SEOTitle = "Dillon Singh | Data Science & Analytics"
   description = "Dillon Singh — M.S. in Data Science (Artificial Intelligence specialization), Northwestern University. Data science and business analytics."
   keyword = "Dillon Singh, data science, business analytics, artificial intelligence, Northwestern University, StatusTix"
