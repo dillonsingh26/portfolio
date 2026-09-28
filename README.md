@@ -30,4 +30,4 @@ The site is served at <http://localhost:1313/>.
 
 ## Image credits
 
-- `static/img/home-bg-nyc.jpg` — [Midtown Manhattan from Weehawken September 2021 HDR panorama](https://commons.wikimedia.org/wiki/File:Midtown_Manhattan_from_Weehawken_September_2021_HDR_panorama.jpg) by King of Hearts, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Resized from the original.
+- `static/img/home-bg-brooklyn-bridge.jpg` — [Pont de Brooklyn de nuit - Octobre 2008 edit](https://commons.wikimedia.org/wiki/File:Pont_de_Brooklyn_de_nuit_-_Octobre_2008_edit.jpg) by Martin St-Amant (S23678), licensed [CC BY 3.0](https://creativecommons.org/licenses/by/3.0). Resized from the original.

@@ -28,4 +28,4 @@ I'm a Master's student in Data Science at Northwestern University, focused on br
 
 ---
 
-Header photo: [Midtown Manhattan from Weehawken](https://commons.wikimedia.org/wiki/File:Midtown_Manhattan_from_Weehawken_September_2021_HDR_panorama.jpg) by King of Hearts, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), resized.
+Header photo: [Brooklyn Bridge at night](https://commons.wikimedia.org/wiki/File:Pont_de_Brooklyn_de_nuit_-_Octobre_2008_edit.jpg) by Martin St-Amant, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), resized.
