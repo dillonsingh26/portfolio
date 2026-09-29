@@ -18,12 +18,12 @@
 [[tiles]]
   title = "Resume"
   image = "images/home/resume.jpg"
-  url = "https://dillonsingh26.github.io/resume.html"
+  url = "/resume.html"
 
 [[tiles]]
   title = "Graduate Projects"
   image = "images/home/northwestern.png"
-  url = "https://github.com/dillonsingh26/Graduate-Projects"
+  url = ""
 
 [[tiles]]
   title = "Github"
