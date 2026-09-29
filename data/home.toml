@@ -33,7 +33,7 @@
 [[tiles]]
   title = "Substack"
   image = "images/home/substack.png"
-  url = ""
+  url = "https://substack.com/@dillonsingh"
 
 [[tiles]]
   title = "LinkedIn"
