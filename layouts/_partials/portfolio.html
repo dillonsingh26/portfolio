@@ -1,0 +1,9 @@
+{{- /*
+  Home page body. This file replaces the theme's partial of the same name.
+  The intro and tiles show on the first page only, above the post list.
+*/ -}}
+{{ $paginator := .Paginate (where (where .Site.Pages "Type" "post") "IsPage" true) }}
+{{ if not $paginator.HasPrev }}
+  {{ partial "home-tiles.html" . }}
+{{ end }}
+{{ partial "posts.html" . }}

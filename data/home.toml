@@ -1,0 +1,55 @@
+# Content for the home page intro, link tiles, and contact block.
+# The template that reads this file is layouts/_partials/home-tiles.html.
+# Image paths are relative to the assets/ folder.
+
+[intro]
+  label = "Data Scientist"
+  photo = "images/home/avatar.jpg"
+  bio = "I'm a Master's student in Data Science at Northwestern University, focused on bringing advanced analytics and AI into impactful, real-world applications. My current passion is StatusTix — a social sports app I founded and built, where fans earn status for showing up."
+
+# One [[tiles]] block per tile, shown in this order.
+# Leave url empty ("") and the tile shows without a link.
+
+[[tiles]]
+  title = "StatusTix"
+  image = "images/home/statustix.png"
+  url = ""
+
+[[tiles]]
+  title = "Resume"
+  image = "images/home/resume.jpg"
+  url = "https://dillonsingh26.github.io/resume.html"
+
+[[tiles]]
+  title = "Graduate Projects"
+  image = "images/home/northwestern.png"
+  url = "https://github.com/dillonsingh26/Graduate-Projects"
+
+[[tiles]]
+  title = "Github"
+  image = "images/home/github.png"
+  url = "https://github.com/dillonsingh26"
+
+[[tiles]]
+  title = "Substack"
+  image = "images/home/substack.png"
+  url = ""
+
+[[tiles]]
+  title = "LinkedIn"
+  image = "images/home/linkedin.png"
+  url = "https://www.linkedin.com/in/dillon-singh-aa152216b/"
+
+[contact]
+  label = "Get in touch"
+  heading = "Let’s work together"
+  text = "Open to data science roles, freelance analytics work, and interesting collaborations. My résumé, code, and app are all linked above."
+
+  # Buttons with an empty url are left off the page.
+  [[contact.buttons]]
+    title = "Email me"
+    url = "mailto:dillonsingh26.26@gmail.com"
+
+  [[contact.buttons]]
+    title = "Download StatusTix"
+    url = ""

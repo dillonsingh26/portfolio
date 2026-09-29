@@ -1,0 +1,64 @@
+{{- /*
+  Home page intro, link tiles, and contact block.
+  All text, links, and image paths come from data/home.toml.
+  Images are read from assets/ and cropped to a common size at build time.
+*/ -}}
+{{- $home := hugo.Data.home -}}
+
+<div class="container home-blocks">
+  <div class="row">
+    <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
+
+      {{- with $home.intro }}
+      <section class="home-intro">
+        {{- with resources.Get .photo }}
+          {{- $photo := (.Crop "560x560 Bottom").Resize "360x" }}
+          <img class="home-avatar" src="{{ $photo.RelPermalink }}" width="180" height="180" alt="{{ site.Title }}">
+        {{- end }}
+        <div class="home-intro-text">
+          <p class="home-label">{{ .label }}</p>
+          <p class="home-bio">{{ .bio }}</p>
+        </div>
+      </section>
+      {{- end }}
+
+      <section class="home-tiles">
+        {{- range $home.tiles }}
+          {{- $image := resources.Get .image }}
+          {{- if not $image }}
+            {{- errorf "home-tiles: image %q for tile %q was not found under assets/" .image .title }}
+          {{- end }}
+          {{- $image = $image.Fill "720x720 Center" }}
+
+          {{- if .url }}
+          <a class="home-tile" href="{{ .url }}"{{ if hasPrefix .url "http" }} target="_blank" rel="noopener"{{ end }}>
+            <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="" loading="lazy">
+            <span class="home-tile-label">{{ .title }}</span>
+          </a>
+          {{- else }}
+          <div class="home-tile">
+            <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="" loading="lazy">
+            <span class="home-tile-label">{{ .title }}</span>
+          </div>
+          {{- end }}
+        {{- end }}
+      </section>
+
+      {{- with $home.contact }}
+      <section class="home-contact">
+        <p class="home-label">{{ .label }}</p>
+        <h2>{{ .heading }}</h2>
+        <p>{{ .text }}</p>
+        <div class="home-contact-buttons">
+          {{- range .buttons }}
+            {{- if .url }}
+            <a class="home-button" href="{{ .url }}"{{ if hasPrefix .url "http" }} target="_blank" rel="noopener"{{ end }}>{{ .title }}</a>
+            {{- end }}
+          {{- end }}
+        </div>
+      </section>
+      {{- end }}
+
+    </div>
+  </div>
+</div>
