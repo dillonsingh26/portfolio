@@ -6,7 +6,9 @@ description: "The short version of how I got here"
 
 ## Hi, I'm Dillon
 
-I'm a Master's student in Data Science at Northwestern University, focused on bringing advanced analytics and AI into impactful, real-world applications. I work as a Lead Financial Analyst at Level Blue, and I'm the founder of StatusTix, a social sports app where fans earn status for showing up.
+I'm originally from Charlotte, NC. I'm a Master's student in Data Science at Northwestern University, focused on bringing advanced analytics and AI into impactful, real-world applications. I work as a Lead Financial Analyst at Level Blue, and I'm the founder of StatusTix, a social sports app where fans earn status for showing up.
+
+I'm currently pursuing opportunities to showcase my creativity and technical skills in statistics and data engineering.
 
 ## How I got here
 
