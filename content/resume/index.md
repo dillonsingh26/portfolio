@@ -4,7 +4,7 @@ title: "Resume"
 description: "Dillon Singh · New York, NY"
 ---
 
-[dillonsingh26.26@gmail.com](mailto:dillonsingh26.26@gmail.com) · New York, NY · [LinkedIn](https://www.linkedin.com/in/dillon-singh-aa152216b/) · [GitHub](https://github.com/dillonsingh26)
+[dillonsingh26.26@gmail.com](mailto:dillonsingh26.26@gmail.com) · New York, NY · [LinkedIn](https://www.linkedin.com/in/dillon-singh-aa152216b/) · [GitHub](https://github.com/dillonsingh26) · [Download PDF](/Dillon_Singh_Resume.pdf)
 
 ## About Me
 
