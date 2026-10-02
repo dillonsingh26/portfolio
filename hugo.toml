@@ -124,6 +124,9 @@ home = ["HTML", "RSS", "Algolia"]
   href = "https://unsplash.com"
   
   [[params.additional_menus]]
+  title =  "RESUME"
+  href =  "/resume/"
+  [[params.additional_menus]]
   title =  "ARCHIVE"
   href =  "/archive/"
   [[params.additional_menus]]

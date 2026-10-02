@@ -13,3 +13,9 @@
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL && npx -y pagefind --site public"
+
+# The resume used to be a standalone HTML file; send old links to the Markdown page
+[[redirects]]
+  from = "/resume.html"
+  to = "/resume/"
+  status = 301
