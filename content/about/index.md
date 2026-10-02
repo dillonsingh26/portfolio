@@ -20,10 +20,6 @@ I'm a big sports fan. When a sports analytics class at Northwestern called for a
 
 It's in testing right now, and you can [try it on TestFlight](https://testflight.apple.com/join/u5Kgnrts).
 
-## The formal version
-
-If you want the job titles, dates, and skills, they're all on my [Resume](/resume/).
-
 ## Say hello
 
 - Email: [dillonsingh26.26@gmail.com](mailto:dillonsingh26.26@gmail.com)
