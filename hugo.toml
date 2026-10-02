@@ -46,7 +46,8 @@ home = ["HTML", "RSS", "Algolia"]
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
   #sidebar_avatar = "img/your-photo.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-  featured_tags = true 
+  # Sidebar tag and recent-post lists. Set back to true once there are posts.
+  featured_tags = false
   featured_condition_size = 1 
 
   # Baidu Analytics
@@ -76,7 +77,7 @@ home = ["HTML", "RSS", "Algolia"]
   about_me = true
 
   # Last posts
-  last_posts = true
+  last_posts = false
   #last_posts_title = "LAST POSTS"
   #last_posts_count = 5
 
@@ -126,9 +127,10 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.additional_menus]]
   title =  "RESUME"
   href =  "/resume/"
-  [[params.additional_menus]]
-  title =  "ARCHIVE"
-  href =  "/archive/"
+  # Archive lists posts by date. Remove the # marks to show it once there are posts.
+  #[[params.additional_menus]]
+  #title =  "ARCHIVE"
+  #href =  "/archive/"
   [[params.additional_menus]]
   title =  "ABOUT"
   href =  "/about/"
