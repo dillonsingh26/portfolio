@@ -6,6 +6,8 @@ description: "The short version of how I got here"
 
 ## Hi, I'm Dillon
 
+{{< img src="home/avatar.jpg" alt="Dillon Singh" width="320" >}}
+
 I'm originally from Charlotte, NC, and I'm currently pursuing opportunities to showcase my creativity and technical skills in statistics and data engineering.
 
 ## How I got here

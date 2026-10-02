@@ -153,3 +153,20 @@ a.home-tile:focus {
         gap: 14px;
     }
 }
+
+/* Images added to pages with the img shortcode (layouts/_shortcodes/img.html) */
+.site-figure {
+    margin: 0 0 28px;
+}
+
+.site-figure img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.site-figure figcaption {
+    margin-top: 8px;
+    font-size: 14px;
+    color: #777;
+}
