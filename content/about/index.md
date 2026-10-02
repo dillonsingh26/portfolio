@@ -6,27 +6,25 @@ description: "The short version of how I got here"
 
 ## Hi, I'm Dillon
 
-I'm originally from Charlotte, NC. I'm a Master's student in Data Science at Northwestern University, focused on bringing advanced analytics and AI into impactful, real-world applications. I work as a Lead Financial Analyst at Level Blue, and I'm the founder of StatusTix, a social sports app where fans earn status for showing up.
-
-I'm currently pursuing opportunities to showcase my creativity and technical skills in statistics and data engineering.
+I'm originally from Charlotte, NC, and I'm currently pursuing opportunities to showcase my creativity and technical skills in statistics and data engineering.
 
 ## How I got here
 
-I studied business at the University of South Carolina, then started my career in AT&T's Finance Leadership Program. The work that held my attention was never the spreadsheet itself. It was figuring out why customers stay, why they leave, and what the numbers say a team should do next. That pulled me toward analytics, then toward Python and automation, and eventually into a data science degree.
+I went to the University of South Carolina for business school and started my career in finance at AT&T. Somewhere along the way I figured out that my favorite part of the job was building things. A model, a dashboard, a script that saved someone a week of work. I wanted to get better at that, so I went back to school.
+
+These days I live in New York, work at Level Blue, and spend my nights and weekends on a Master's in Data Science at Northwestern. I'm on track to finish in March 2027.
 
 ## What I'm building
 
-StatusTix began as a prototype in a Northwestern sports analytics class. After the class ended I kept going, founded the company, and rebuilt it as an iOS app. It is in testing now, and you can [try it on TestFlight](https://testflight.apple.com/join/u5Kgnrts).
+I'm a big sports fan. When a sports analytics class at Northwestern called for a project, I built a small app for keeping track of the games you go to. The class ended and I kept going. That prototype is now StatusTix, an iOS app where fans earn status for showing up.
 
-## What I'm interested in
+It's in testing right now, and you can [try it on TestFlight](https://testflight.apple.com/join/u5Kgnrts).
 
-Sports analytics, customer analytics, and putting AI to work on practical problems. I like projects where the analysis ends in a decision someone actually makes.
+## The formal version
 
-## Where to find the details
+If you want the job titles, dates, and skills, they're all on my [Resume](/resume/).
 
-My full work history, education, and skills are on the [Resume](/resume/) page.
-
-## Contact
+## Say hello
 
 - Email: [dillonsingh26.26@gmail.com](mailto:dillonsingh26.26@gmail.com)
 - LinkedIn: [linkedin.com/in/dillon-singh-aa152216b](https://www.linkedin.com/in/dillon-singh-aa152216b/)
