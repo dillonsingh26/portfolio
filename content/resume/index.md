@@ -14,7 +14,7 @@ Data-driven strategist passionate about transforming data into stories that insp
 
 ### Northwestern University
 
-**Masters (M.S.) Data Science – Artificial Intelligence Specialization** (Expected Graduation June 2027)
+**Masters (M.S.) Data Science – Artificial Intelligence Specialization** (Expected Graduation March 2027)
 
 Relevant Coursework: Applied Statistics, Database Systems, AI and Deep Learning, Practical Machine Learning, Natural Language Processing
 
