@@ -1,24 +1,28 @@
 ---
 layout: page
 title: "About"
-description: "M.S. in Data Science · Northwestern University"
+description: "The short version of how I got here"
 ---
 
-## About Me
+## Hi, I'm Dillon
 
-I'm a Master's student in Data Science at Northwestern University, focused on bringing advanced analytics and AI into impactful, real-world applications. I founded StatusTix — a social sports where fans earn status for showing up.
+I'm a Master's student in Data Science at Northwestern University, focused on bringing advanced analytics and AI into impactful, real-world applications. I work as a Lead Financial Analyst at Level Blue, and I'm the founder of StatusTix, a social sports app where fans earn status for showing up.
 
-## Education
+## How I got here
 
-**Northwestern University** — M.S. in Data Science, Artificial Intelligence specialization (March 2027)
+I studied business at the University of South Carolina, then started my career in AT&T's Finance Leadership Program. The work that held my attention was never the spreadsheet itself. It was figuring out why customers stay, why they leave, and what the numbers say a team should do next. That pulled me toward analytics, then toward Python and automation, and eventually into a data science degree.
 
-**University of South Carolina, Darla Moore School of Business** — B.S. in Business Administration
+## What I'm building
 
-## Experience
+StatusTix began as a prototype in a Northwestern sports analytics class. After the class ended I kept going, founded the company, and rebuilt it as an iOS app. It is in testing now, and you can [try it on TestFlight](https://testflight.apple.com/join/u5Kgnrts).
 
-- **Level Blue** — Lead Financial Analyst, 2024–Present
-- **StatusTix** — Founder, 2026–Present
-- **AT&T** — Lead Financial Analyst and Financial Analyst, 2019–2024
+## What I'm interested in
+
+Sports analytics, customer analytics, and putting AI to work on practical problems. I like projects where the analysis ends in a decision someone actually makes.
+
+## Where to find the details
+
+My full work history, education, and skills are on the [Resume](/resume/) page.
 
 ## Contact
 

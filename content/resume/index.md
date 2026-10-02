@@ -6,7 +6,7 @@ description: "Dillon Singh · New York, NY"
 
 [dillonsingh26.26@gmail.com](mailto:dillonsingh26.26@gmail.com) · New York, NY · [LinkedIn](https://www.linkedin.com/in/dillon-singh-aa152216b/) · [GitHub](https://github.com/dillonsingh26) · [Download PDF](/Dillon_Singh_Resume.pdf)
 
-## About Me
+## Summary
 
 Data-driven strategist passionate about transforming data into stories that inspire action. Experienced in building forecasting models, automating workflows, and designing dashboards that translate complex data into clear business impact across finance, marketing, and product analytics teams. Currently pursuing an M.S. in Data Science at Northwestern University, working as a Lead Financial Analyst at Level Blue, and pursuing project opportunities to apply customer analytics to help high-growth technology companies optimize the end-to-end customer journey.
 
