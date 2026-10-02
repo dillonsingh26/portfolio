@@ -13,7 +13,7 @@
 [[tiles]]
   title = "StatusTix"
   image = "images/home/statustix.png"
-  url = ""
+  url = "https://testflight.apple.com/join/u5Kgnrts"
 
 [[tiles]]
   title = "Resume"
@@ -52,4 +52,4 @@
 
   [[contact.buttons]]
     title = "Download StatusTix"
-    url = ""
+    url = "https://testflight.apple.com/join/u5Kgnrts"
